@@ -2,14 +2,14 @@
 <h3 align="center">A Java Full Stack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhashanasadhanjana&label=Profile%20views&color=0e75b6&style=flat" alt="bhashanasadhanjana" /> </p>
 
-### My Portfolio
+### About Me
 
 ---
 
 
 - 🔭 I’m currently doing self-studies on **Machine Learning**
 
-- 🌱 I’m currently studying a **(BSc) in Computer Science**
+- 🌱 I’m currently studying a **(BSc) in Computer Science at the University Of South Wales**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhashanaSadhanjana](https://github.com/BhashanaSadhanjana)
 
