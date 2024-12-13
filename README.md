@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhashana</h1>
 <h3 align="center">A Java Full Stack Developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhashanasadhanjana&label=Profile%20views&color=0e75b6&style=flat" alt="bhashanasadhanjana" /> </p>
 
 ### My Portfolio
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhashanasadhanjana&label=Profile%20views&color=0e75b6&style=flat" alt="bhashanasadhanjana" /> </p>
 
 - 🔭 I’m currently doing self-studies on **Machine Learning**
 
